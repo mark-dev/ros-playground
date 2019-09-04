@@ -1,0 +1,10 @@
+(cl:defpackage beginner_tutorials-srv
+  (:use )
+  (:export
+   "ROSDUMMYSERVICE"
+   "<ROSDUMMYSERVICE-REQUEST>"
+   "ROSDUMMYSERVICE-REQUEST"
+   "<ROSDUMMYSERVICE-RESPONSE>"
+   "ROSDUMMYSERVICE-RESPONSE"
+  ))
+
